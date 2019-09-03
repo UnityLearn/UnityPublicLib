@@ -1,0 +1,15 @@
+公共库脚本参考
+http://wiki.unity3d.com/index.php/Scripts
+
+每个脚本包含源码，分析，说明，使用样例。
+文件结构
+  1.General(通用脚本)
+  2.Editor（编辑器）
+  3.Controllers（控制器）
+  4.UI(UI)
+  5.Effects(特效)
+  6.Physics/Simulation(物理)
+  7.Networking（网络）
+  8.Audio（音效）
+  9.Utility(工具)
+  
