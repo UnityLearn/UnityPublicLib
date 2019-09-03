@@ -1,0 +1,21 @@
+﻿这是辅助工具相关脚本。
+http://wiki.unity3d.com/index.php/Scripts/Utility
+
+Singletons  单例
+
+EventSystems  事件系统
+
+Serialization  序列化
+
+Helper  辅助
+
+Time  时间日期
+
+UI   UI适配
+
+Editor  扩展编辑器
+
+Optimization  优化
+
+AnalyticsTest  调试
+  
